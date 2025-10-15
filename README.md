@@ -10,3 +10,5 @@ A blog site for managing content, allowing the user to create, view and delete p
    **Project setup** - *localhost/ProjectBlog/setup.php*<br>
    **Run the project** - *localhost/ProjectBlog/index.php*<br>
    **Project reset** - *localhost/ProjectBlog/reset.php*
+
+> Tested on XAMPP v8.1.4.
